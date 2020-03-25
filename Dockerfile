@@ -1,4 +1,3 @@
-
 FROM centos:7.4.1708
 LABEL author=sense email=sense_s_wang@163.com site=http://www.sensewang.cn
 WORKDIR /opt/hexo
